@@ -12,6 +12,7 @@ I'm currently working at Civilience as a React Frontend Developer.
 Latest Project:
 
 Is it a bird, is it a plane.....nope! Just a pen. 🖋️
+
 I just completed building the project which is really a script to automate my discovery of new Amharic words to aid my learning. I took the opportunity to practice some Three.js by ading some UI.
 https://poem-mechanic.vercel.app/
 
