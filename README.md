@@ -1,5 +1,11 @@
 ### Thanks for stopping by 🤸‍♀️
 
+Who am I?
+My name is Ruhama and I recently graduated from Syracuse with a B.S. in Information Management and Technology. I am a Frontend Web Developer invested in all granular aspects of website building. I am a storyteller that deeply cares about the user experience of a digital platform. A website is a company's first impression, so let's make a good one!
+
+Current Location: 
+I'm currently working at Civilience as a React Frontend Developer.
+
 <!--
 **ruhamasahle/ruhamasahle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
