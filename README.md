@@ -8,7 +8,7 @@ Current Location: 👩‍💼
 
 I'm currently working at Civilience as a React Frontend Developer.
 
-
+HTML5 CSS SAAS BootStrap JavaScript TypeScript React Vue Redux Express MongoDB SupaBase Heroku Python
 Latest Project:
 
 Is it a bird, is it a plane.....nope! Just a pen. 🖋️
